@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e1418eb4c73661e459bf2fe1810476f0
+guid: 30f1b81a43b7f5b4d983b44f3f8b5a73
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
-  spriteBorder: {x: 11, y: 391, z: 166, w: 27}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -117,53 +117,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_0
+      name: IMG_4680-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 24
+        x: 66
         y: 404
-        width: 43
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c171d4ccd761c0b4eaf8b5e7712687a4
-      internalID: 1320627136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_1
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 324
-        width: 45
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d3ae517d35a3d545a0dcd25dd31dbee
-      internalID: 1745109414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_2
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 324
         width: 44
         height: 62
       alignment: 0
@@ -173,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a264da5ae6de1834e86b2bae58e2d5ab
-      internalID: -1199445329
+      spriteID: 4d64b02f8d7c7224bac8e8feee8aecec
+      internalID: -98779019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_3
+      name: IMG_4680-removebg-preview_1
       rect:
         serializedVersion: 2
-        x: 133
-        y: 326
-        width: 41
-        height: 60
+        x: 136
+        y: 403
+        width: 44
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +152,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40ef4a42b499e5d4d8f95ca99b41120f
-      internalID: -2057211425
+      spriteID: 8635b28344859f0479baf40d25334fbe
+      internalID: -1188772515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_4
+      name: IMG_4680-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 323
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3011a8cfbc7bc2419b51669120ea5f8
+      internalID: 1016287973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 323
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb51d3805eba845b6a2d233e2002af
+      internalID: 246665578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b970de64e16570a44a9899ba05454300
+      internalID: -420629883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_5
       rect:
         serializedVersion: 2
         x: 183
-        y: 326
+        y: 325
         width: 40
-        height: 60
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,19 +236,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51d80de4f5788bf4d9d290cd7b6564cf
-      internalID: 27914968
+      spriteID: dd4b9076dd3a63d47955d2719b4751cf
+      internalID: 1427785886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_5
+      name: IMG_4680-removebg-preview_6
       rect:
         serializedVersion: 2
-        x: 24
+        x: 23
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476d18ffa5aaad4b8acd407b784e5de
+      internalID: -118630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca60ea5276ed94c9cb3752e5a1b99b
+      internalID: 2012132271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 132
         y: 254
-        width: 42
+        width: 44
         height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -236,18 +299,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b42d6edd4d83cd40b3105ecf5fc6a62
-      internalID: -9441517
+      spriteID: a567b943be645f748bcac849d2fe89a1
+      internalID: -645334572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_6
+      name: IMG_4680-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc51dff084b0946ac928e70dc7fb66
+      internalID: 391751631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 169
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c2d29adc87214bb2ac7a5572c4828
+      internalID: -1222294712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_11
       rect:
         serializedVersion: 2
         x: 76
-        y: 253
+        y: 169
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f734be79d255e64488afe9a30fefc7a9
+      internalID: -516174458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 169
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4dd951c8d77e40ba94f992395d227
+      internalID: 1472112728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_4680-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
         width: 42
         height: 63
       alignment: 0
@@ -257,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb5ef6e12fe73e24aa24f85322160c8e
-      internalID: 78867225
+      spriteID: df894fc987ca839468e2d63d145f6788
+      internalID: 1412326254
       vertices: []
       indices: 
       edges: []
@@ -267,20 +414,27 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      kyaramoovv-PhotoRoom.png-PhotoRoom_0: 1320627136
-      kyaramoovv-PhotoRoom.png-PhotoRoom_1: 1745109414
-      kyaramoovv-PhotoRoom.png-PhotoRoom_2: -1199445329
-      kyaramoovv-PhotoRoom.png-PhotoRoom_3: -2057211425
-      kyaramoovv-PhotoRoom.png-PhotoRoom_4: 27914968
-      kyaramoovv-PhotoRoom.png-PhotoRoom_5: -9441517
-      kyaramoovv-PhotoRoom.png-PhotoRoom_6: 78867225
+      IMG_4680-removebg-preview_0: -98779019
+      IMG_4680-removebg-preview_1: -1188772515
+      IMG_4680-removebg-preview_10: -1222294712
+      IMG_4680-removebg-preview_11: -516174458
+      IMG_4680-removebg-preview_12: 1472112728
+      IMG_4680-removebg-preview_13: 1412326254
+      IMG_4680-removebg-preview_2: 1016287973
+      IMG_4680-removebg-preview_3: 246665578
+      IMG_4680-removebg-preview_4: -420629883
+      IMG_4680-removebg-preview_5: 1427785886
+      IMG_4680-removebg-preview_6: -118630530
+      IMG_4680-removebg-preview_7: 2012132271
+      IMG_4680-removebg-preview_8: -645334572
+      IMG_4680-removebg-preview_9: 391751631
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

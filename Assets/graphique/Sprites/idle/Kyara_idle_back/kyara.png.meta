@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e9921870d349b30419a449fe3521240a
+guid: a0dc1059dac514746863fb96096728bc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,53 +117,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_0
+      name: kyara_0
       rect:
         serializedVersion: 2
-        x: 24
+        x: 66
         y: 404
-        width: 43
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f07554bdaabafe4f9373f321c84f761
-      internalID: -496510647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_1
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 324
-        width: 45
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 094ab81f8f4fd6e42b8f39972f66de83
-      internalID: -1913753088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_2
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 324
         width: 44
         height: 62
       alignment: 0
@@ -173,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b51044eded2226468e48ce200340707
-      internalID: 515495240
+      spriteID: ebe3b93913875e34c940216663b642b9
+      internalID: -53250307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_3
+      name: kyara_1
       rect:
         serializedVersion: 2
-        x: 133
-        y: 326
-        width: 41
-        height: 60
+        x: 136
+        y: 403
+        width: 44
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +152,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2212fc5baa73fce4bb8d9eba998b7220
-      internalID: 1272103798
+      spriteID: 69f7b655e4542664cb5713505b876908
+      internalID: -1075206775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_4
+      name: kyara_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 323
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c18a0151b79f44a32f4f6854d8e80
+      internalID: 281093651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 323
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbef842f66df4f4cbf500de65ddeaa5
+      internalID: 1304003998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b010ff5cc9744b97d326748dda61a
+      internalID: -1591005531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_5
       rect:
         serializedVersion: 2
         x: 183
-        y: 326
+        y: 325
         width: 40
-        height: 60
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,19 +236,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f47b32bc0e0a840b150f8fb7bffae5
-      internalID: 472929776
+      spriteID: f6a9ebf20d47b4742afccd7d6aaedeb4
+      internalID: -1078391593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_5
+      name: kyara_6
       rect:
         serializedVersion: 2
-        x: 24
+        x: 23
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5b2b43277b0247b02cecc19fd232e
+      internalID: 668934959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0188fe51be5274f880a31da1109d72
+      internalID: -2139991452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_8
+      rect:
+        serializedVersion: 2
+        x: 132
         y: 254
-        width: 42
+        width: 44
         height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -236,18 +299,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c40e92b38ffc67e4ba8dd19c91d6a641
-      internalID: 2038893802
+      spriteID: c0f9dead21ce0cc4b8590b38135580b9
+      internalID: -2125034456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kyaramoovv-PhotoRoom.png-PhotoRoom_6
+      name: kyara_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 253
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880563aef1bc0f241a539c151706fd70
+      internalID: 1227445459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 169
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2dfc8388122943b786990c76e4c7a
+      internalID: 1054670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_11
       rect:
         serializedVersion: 2
         x: 76
-        y: 253
+        y: 169
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5828edc0f83e544869f2ae41eeff57
+      internalID: 433287438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 169
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6456f05f6dabf4bbbe4402ee0e405a
+      internalID: 1999902214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyara_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
         width: 42
         height: 63
       alignment: 0
@@ -257,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6823c46d1a8c60e43a8f84478446bac1
-      internalID: -1758828600
+      spriteID: 3f16f5e8ff573ab47a21cafdb4f39c85
+      internalID: 226739240
       vertices: []
       indices: 
       edges: []
@@ -274,13 +421,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      kyaramoovv-PhotoRoom.png-PhotoRoom_0: -496510647
-      kyaramoovv-PhotoRoom.png-PhotoRoom_1: -1913753088
-      kyaramoovv-PhotoRoom.png-PhotoRoom_2: 515495240
-      kyaramoovv-PhotoRoom.png-PhotoRoom_3: 1272103798
-      kyaramoovv-PhotoRoom.png-PhotoRoom_4: 472929776
-      kyaramoovv-PhotoRoom.png-PhotoRoom_5: 2038893802
-      kyaramoovv-PhotoRoom.png-PhotoRoom_6: -1758828600
+      kyara_0: -53250307
+      kyara_1: -1075206775
+      kyara_10: 1054670165
+      kyara_11: 433287438
+      kyara_12: 1999902214
+      kyara_13: 226739240
+      kyara_2: 281093651
+      kyara_3: 1304003998
+      kyara_4: -1591005531
+      kyara_5: -1078391593
+      kyara_6: 668934959
+      kyara_7: -2139991452
+      kyara_8: -2125034456
+      kyara_9: 1227445459
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
